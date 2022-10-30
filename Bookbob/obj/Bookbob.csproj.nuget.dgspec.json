@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Desktop\\repos\\Bookbob\\Bookbob\\Bookbob.csproj": {}
+    "C:\\Users\\Pritesh\\Desktop\\BookBob-2.0\\BookBob-2.0\\Bookbob\\Bookbob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Desktop\\repos\\Bookbob\\Bookbob\\Bookbob.csproj": {
+    "C:\\Users\\Pritesh\\Desktop\\BookBob-2.0\\BookBob-2.0\\Bookbob\\Bookbob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Desktop\\repos\\Bookbob\\Bookbob\\Bookbob.csproj",
+        "projectUniqueName": "C:\\Users\\Pritesh\\Desktop\\BookBob-2.0\\BookBob-2.0\\Bookbob\\Bookbob.csproj",
         "projectName": "Bookbob",
-        "projectPath": "C:\\Users\\Home\\Desktop\\repos\\Bookbob\\Bookbob\\Bookbob.csproj",
-        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Desktop\\repos\\Bookbob\\Bookbob\\obj\\",
+        "projectPath": "C:\\Users\\Pritesh\\Desktop\\BookBob-2.0\\BookBob-2.0\\Bookbob\\Bookbob.csproj",
+        "packagesPath": "C:\\Users\\Pritesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pritesh\\Desktop\\BookBob-2.0\\BookBob-2.0\\Bookbob\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Pritesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
